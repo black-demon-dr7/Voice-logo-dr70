@@ -23,7 +23,7 @@ $ pkg install mpv -y
 $ git clone https://github.com/black-demon-dr7/Voice-logo-dr70.git
 ```
 ```
-$ cd Voice-Welcome
+$ cd Voice-logo-dr70
 ```
 ```
 $ chmod +x *
